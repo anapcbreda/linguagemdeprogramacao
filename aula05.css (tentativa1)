@@ -1,0 +1,29 @@
+h1{
+	font-family: opensans-bold;
+	font-size: 60pt;
+	color: #205D76;
+	padding: 50px;
+	text-align: center;
+}
+.container{
+	display: flex;
+	height: 300px;
+}
+.destaque{
+	font-family: opensans-semibold;
+	font-size: 30pt;
+	color: #205D76;
+	padding: 15px;
+	width: 900px;
+	text-align: center;
+	position: bottom;
+	margin: auto;
+}
+.pequeno{
+	font-family: opensans;
+	font-size: 15pt;
+	color: #EA6E2F;
+	text-align: center;
+	position: bottom;
+	margin: auto;
+}
