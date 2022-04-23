@@ -57,7 +57,7 @@ nav li a{
 }
 
 .banner{
-	background: url('../img/banner.jpg');
+	background: url('../aula07/img/banner.jpg');
 	height: 450px;
 	margin-bottom: 48px;
 	position: relative;
@@ -69,14 +69,42 @@ nav li a{
 	background: rgba(0, 0, 0, 0.6);
 	width: 480px;
 	padding: 24px 14px 24px 40px;
+	display: center;
 }
 
 h1{
-	font-size: 18px;
+	font-size: 40px;
 	color: #FFF;
+	font-weight: 200;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
 .caixa p{
 	font-size: 18px;
 	color: #FFF;
+}
+
+.menu{
+	float: left;
+	width: 234px;
+}
+
+.destaque{
+	font-size: 18px;
+	color: #FFF;
+	font-weight: 200;
+}
+
+article{
+	width: 264px;
+	height: 214px;
+	display: inline-block;
+	}
+
+footer{
+	height: 18.81px;
+	width: 249px;
+	top: 1104.85px
+	color: #575654;
 }
